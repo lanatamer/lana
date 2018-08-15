@@ -18,3 +18,17 @@
   background: pink;
   color: blue;
 }
+#p3{
+  font-family: cursive; color: purple;
+  background-color: lavender;
+  font-size: 18px;
+}
+ul{
+  font-family: monospace;
+  color: lavender-gray;
+  font-size: 16px;
+  font-style: oblique;
+}
+body{
+  background-color: lightpink;
+}
