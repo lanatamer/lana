@@ -1,1 +1,15 @@
-sample text
+#pic{
+
+  margin-top:50px;
+}
+  #logo {
+  float:left;
+  }
+  #picTwo{
+    width:200px;
+    height:200px;
+  }
+.picthree{
+    width: 200px;
+    height:200px;
+}
