@@ -1,1 +1,20 @@
-sample text
+.navbar-brand{
+  font-family: Amaranth;
+  font-size: 40px;
+  background: pink;
+}
+.title{
+    font-family: Amaranth;
+    background: pink;
+    color: blue;
+}
+.tit{
+    font-family: Amaranth;
+    background: pink;
+    color: blue;
+}
+.content-header-inner{
+  font-family: Amaranth;
+  background: pink;
+  color: blue;
+}
