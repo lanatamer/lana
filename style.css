@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #pic{
 
   margin-top:50px;
@@ -12,4 +13,39 @@
 .picthree{
     width: 200px;
     height:200px;
+=======
+.navbar-brand{
+  font-family: Amaranth;
+  font-size: 40px;
+  background: pink;
+}
+.title{
+    font-family: Amaranth;
+    background: pink;
+    color: blue;
+}
+.tit{
+    font-family: Amaranth;
+    background: pink;
+    color: blue;
+}
+.content-header-inner{
+  font-family: Amaranth;
+  background: pink;
+  color: blue;
+}
+#p3{
+  font-family: cursive; color: purple;
+  background-color: lavender;
+  font-size: 18px;
+}
+ul{
+  font-family: monospace;
+  color: lavender-gray;
+  font-size: 16px;
+  font-style: oblique;
+}
+body{
+  background-color: lightpink;
+>>>>>>> af44b0b5b73e9691fb7c827aaa31e2bbf60e29dd
 }
