@@ -1,5 +1,4 @@
 #pic{
-
   margin-top:50px;
 }
   #logo {
@@ -34,16 +33,28 @@
   color: blue;
 }
 #p3{
-  font-family: cursive; color: purple;
+  color: purple;
   background-color: lavender;
   font-size: 18px;
 }
 ul{
-  font-family: monospace;
-  color: lavender-gray;
+  font-family: Amaranth;
+  color: gray;
   font-size: 16px;
   font-style: oblique;
 }
 body{
   background-color: lightpink;
+}
+.breadcrumb{
+  font-family:serif;
+  font-size: 12px
+}
+h3 {
+  color: blue;
+  text-decoration: underline;
+}
+h4 {
+  color: blue;
+  text-decoration: underline;
 }
